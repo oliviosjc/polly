@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qpe2M3C1L8JQDvZ+hPRGKwqQxfVapQM+5vvM8MOP4c96alGD//BWCD9sKqpL3BVuo8UxHEy3CxDVoh86vXN4pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olivi\\source\\repos\\POCPolly\\POCPolly.Services\\POCPolly.Services.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://bbrasteam.bancorbras.com.br/nuget/nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCPolly.API", "POCPolly.API\POCPolly.API.csproj", "{5151A980-44C8-4C5F-8E4E-20DA48D1C337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCPolly.Services", "POCPolly.Services\POCPolly.Services.csproj", "{DAE19AB5-69BE-4108-AC39-1265122E72FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5151A980-44C8-4C5F-8E4E-20DA48D1C337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5151A980-44C8-4C5F-8E4E-20DA48D1C337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5151A980-44C8-4C5F-8E4E-20DA48D1C337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5151A980-44C8-4C5F-8E4E-20DA48D1C337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE19AB5-69BE-4108-AC39-1265122E72FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE19AB5-69BE-4108-AC39-1265122E72FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE19AB5-69BE-4108-AC39-1265122E72FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE19AB5-69BE-4108-AC39-1265122E72FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {699EC247-9A83-4542-90F1-244557FFB6F1}
+	EndGlobalSection
+EndGlobal

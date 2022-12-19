@@ -1,0 +1,12 @@
+C:\Users\olivi\source\repos\POCPolly\POCPolly.Services\bin\Debug\net6.0\POCPolly.Services.deps.json
+C:\Users\olivi\source\repos\POCPolly\POCPolly.Services\bin\Debug\net6.0\POCPolly.Services.dll
+C:\Users\olivi\source\repos\POCPolly\POCPolly.Services\bin\Debug\net6.0\POCPolly.Services.pdb
+C:\Users\olivi\source\repos\POCPolly\POCPolly.Services\obj\Debug\net6.0\POCPolly.Services.csproj.AssemblyReference.cache
+C:\Users\olivi\source\repos\POCPolly\POCPolly.Services\obj\Debug\net6.0\POCPolly.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olivi\source\repos\POCPolly\POCPolly.Services\obj\Debug\net6.0\POCPolly.Services.AssemblyInfoInputs.cache
+C:\Users\olivi\source\repos\POCPolly\POCPolly.Services\obj\Debug\net6.0\POCPolly.Services.AssemblyInfo.cs
+C:\Users\olivi\source\repos\POCPolly\POCPolly.Services\obj\Debug\net6.0\POCPolly.Services.csproj.CoreCompileInputs.cache
+C:\Users\olivi\source\repos\POCPolly\POCPolly.Services\obj\Debug\net6.0\POCPolly.Services.dll
+C:\Users\olivi\source\repos\POCPolly\POCPolly.Services\obj\Debug\net6.0\refint\POCPolly.Services.dll
+C:\Users\olivi\source\repos\POCPolly\POCPolly.Services\obj\Debug\net6.0\POCPolly.Services.pdb
+C:\Users\olivi\source\repos\POCPolly\POCPolly.Services\obj\Debug\net6.0\ref\POCPolly.Services.dll
